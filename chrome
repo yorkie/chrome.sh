@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+open /Applications/Google\ Chrome.app $1
+
