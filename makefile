@@ -1,5 +1,6 @@
 
 install:
-	ln ./chrome /usr/local/bin/chrome
+	rm -rf /usr/local/bin/chrome
+	ln ./chrome.sh /usr/local/bin/chrome
 
 

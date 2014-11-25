@@ -7,6 +7,8 @@ Chrome Shortcut for opening url with your Terminal
 
 ```sh
 $ chrome {your url}
+$ chrome google -> google.com
+$ chrome github -> github.com
 ```
 
 ### Install
