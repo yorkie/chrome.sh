@@ -19,6 +19,12 @@ $ chrome github yorkie/lv        -> github.com/yorkie/lv
 $ chrome github yorkie           -> github.com/yorkie
 ```
 
+or
+
+```sh
+$ google how-to-learn-javascript
+```
+
 ### Install
 
 ```sh
